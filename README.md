@@ -1,4 +1,4 @@
-###Build your own personal website in React
+#Build your own personal website in React
 
 ## To run the application:
 npm start
