@@ -9,11 +9,11 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <h2>Hello, I am your personal website!</h2>
+          <h2>Welcome to Where Quality Meets Product Delivery!</h2>
         </div>
         <portfolioCardComponent />
         <p className="App-intro">
-
+Have you ever wished your application was bug free? Well, no fears! I am here to teach you how you can deliver a quality product to the market, check out some of my blog posts to get started!
         </p>
       </div>
     );
